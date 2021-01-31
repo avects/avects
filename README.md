@@ -4,7 +4,7 @@
 ### • 🌱 I’m currently learning C++ & HTML5
 ### • ⚡ I’m from Mexico
 
-### Social Media
+## Social Media
 
-## • 👯 Discord Tag: avects#1995
-## • 📫 Twitter Tag: @avectssj
+### • 👯 Discord Tag: avects#1995
+### • 📫 Twitter Tag: @avectssj
