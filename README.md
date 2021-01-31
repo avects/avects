@@ -7,4 +7,4 @@
 ## Social Media
 
 ### • 👯 Discord Tag: avects#1995
-### • 📫 Twitter Tag: https://twitter.com/avectssj
+### • 📫 Twitter Tag: @avectssj
